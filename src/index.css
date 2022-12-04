@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+
+#root,html,body{
+  background: #232323;
+  width: 100vw;
+  height: auto;
+}
+
+body,input,button{
+  font-size: 1rem;
+  font-weight: 400;
+  color: #fafafa;
+}

@@ -1,0 +1,19 @@
+.container-header-bar{
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.header-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.header-right{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+}

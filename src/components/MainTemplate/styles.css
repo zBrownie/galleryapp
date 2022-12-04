@@ -1,0 +1,13 @@
+.ant-layout-footer, .ant-layout-header{
+    color: #fafafa !important;
+    background: #232323 !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+}
+
+.ant-layout-content{
+    color: #fafafa !important;
+    background: #232323 !important;
+}
